@@ -1,3 +1,5 @@
+--Copy and paste hole file Text in SQL Server Yo will be ready to write queries afterwards 
+
 -- Create the 'DataWarehouseAnalytics' database
 CREATE DATABASE DataWarehouseAnalytics;
 GO
